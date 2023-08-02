@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b0190ae2-6c79-44cf-94f4-5aedac18b86f/resourceGroups/Estudios/providers/Microsoft.Web/sites/TestPlatziCurso",
+    "appService.deploySubpath": "platziWeb"
+}
